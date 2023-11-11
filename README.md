@@ -1,2 +1,2 @@
 # import-test
-Testing repo for imports tot GitLab
+Testing repo for import to GITLAB
